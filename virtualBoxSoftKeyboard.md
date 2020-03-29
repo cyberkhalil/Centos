@@ -1,6 +1,7 @@
 ## Virtualbox Soft Keyboard
 
 Oracle VM VirtualBox provides a soft keyboard that enables you to input keyboard characters on the guest. A soft keyboard is an on-screen keyboard that can be used as an alternative to a physical keyboard.
+
 ![Soft Keyboard](https://docs.oracle.com/en/virtualization/virtualbox/6.1/user/images/softkeybd.png)
 
 
