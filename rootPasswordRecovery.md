@@ -1,6 +1,6 @@
 ## Centos Root Password Recovery
 
-### introduction
+### Introduction
 Did you forget your centos root password before ?
 if you didn't then let me tell you that you didn't use centos for alot..
 really you have to forget passwords some times, that's not optional, i'm telling you, YOU WILL!
@@ -10,7 +10,6 @@ losing Centos password.
 
 ### Solution
 
-#### S1
 Recovering password using grub to pass linux kernel parameter on boot.
 
 * Stop Grub Countdown Timer (ESC)
@@ -43,4 +42,4 @@ Now we can reset the password of the root account using `passwd` command, we can
 ![grub debug shell](imgs/debugShell/passwd.png)
 
 ## END
-[back to home](../)
+[back to home](/Centos/)
