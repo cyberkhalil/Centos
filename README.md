@@ -6,4 +6,4 @@ You can help me updating the repo just login github and suggest changes [editor 
 
 I will include any topic that seems to be interesting or needed, if you have any suggestion for more topics you can create github issue with the name of topic/suggestions.
 
-* [Root Password Recovery](/rootPasswordRecovery "Root Password Recovery") 
+* [Root Password Recovery](./rootPasswordRecovery "Root Password Recovery") 
